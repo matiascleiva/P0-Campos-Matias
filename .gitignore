@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editores
+.vscode/
+.idea/
+
+# Datos generados localmente (los datos del proyecto se regeneran con el script)
+data/*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
