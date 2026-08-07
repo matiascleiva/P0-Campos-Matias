@@ -1,0 +1,11 @@
+{
+  "sistema_operativo": "Windows 11",
+  "plataforma": "Windows-11-10.0.26200-SP0",
+  "arquitectura": "AMD64",
+  "version_python": "3.14.7",
+  "procesador": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "nucleos_fisicos": 8,
+  "procesadores_logicos": 12,
+  "ram_total_bytes": 16891633664,
+  "ram_total_gb": 15.73
+}
