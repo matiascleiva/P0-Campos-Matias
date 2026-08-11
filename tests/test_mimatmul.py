@@ -17,6 +17,13 @@ def test_producto_conocido():
     assert mimatmul(A, B) == esperado
 
 
+def test_matrices_cuadradas():
+    A = [[1, 2], [3, 4]]
+    B = [[5, 6], [7, 8]]
+    esperado = [[19, 22], [43, 50]]
+    assert mimatmul(A, B) == esperado
+
+
 def test_compara_con_numpy():
     import numpy as np
 
