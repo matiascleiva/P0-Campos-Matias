@@ -13,9 +13,6 @@ __pycache__/
 .vscode/
 .idea/
 
-# Datos generados localmente (los datos del proyecto se regeneran con el script)
-data/*.csv
-
 # Sistema
 .DS_Store
 Thumbs.db
