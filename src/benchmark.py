@@ -22,7 +22,7 @@ from src.mimatmul import mimatmul  # noqa: E402
 
 CSV_FILE = REPO_ROOT / "data" / "benchmark_results.csv"
 
-SIZES = [25, 50, 100, 150]
+SIZES = [50, 100, 200, 300]
 REPETICIONES = 3
 METODOS = {
     "mimatmul": lambda A, B: mimatmul(A, B),
